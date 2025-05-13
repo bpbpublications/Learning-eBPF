@@ -1,2 +1,2 @@
-# eBPF The definitive guide
- eBPF: The definitive guide, by BPB Publications
+# Learning eBPF
+ Learning eBPF, by BPB Publications
