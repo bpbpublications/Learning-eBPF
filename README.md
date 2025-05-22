@@ -3,7 +3,7 @@
 High performance observability, networking, and security programming on Linux.
 
 This is the repository for [Learning eBPF
-]([https://bpbonline.com/products/get-set-go?variant=44629099020488](https://bpbonline.com/products/learning-ebpf?_pos=1&_sid=4f8bfdaac&_ss=r&variant=44627955024072)),published by BPB Publications.
+](https://bpbonline.com/products/learning-ebpf?_pos=1&_sid=4f8bfdaac&_ss=r&variant=44627955024072),published by BPB Publications.
 
 <img src="9789365898859.jpg">
 
